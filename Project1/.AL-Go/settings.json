@@ -1,1 +1,18 @@
-{"country":"us","appFolders":["app"],"testFolders":[],"bcptTestFolders":[],"workspaceCompilation":{"enabled":true,"parallelism":1},"enableAppSourceCop":true,"enablePerTenantExtensionCop":false,"appSourceCopMandatoryAffixes":["Test"]}
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/aholstrup/workspace_compilation_part2/Actions/.Modules/settings.schema.json",
+  "country": "us",
+  "appFolders": [
+    "app"
+  ],
+  "testFolders": [],
+  "bcptTestFolders": [],
+  "workspaceCompilation": {
+    "enabled": true,
+    "parallelism": 1
+  },
+  "enableAppSourceCop": true,
+  "enablePerTenantExtensionCop": false,
+  "appSourceCopMandatoryAffixes": [
+    "Test"
+  ]
+}
